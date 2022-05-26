@@ -36,13 +36,13 @@ References for all data used in your analysis. The specific version of the data 
 
 Reference for each minted data source for your input data.  For example:
 
-Human, I.M. (2021). My input dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+_Example_: Human, I.M. (2021). My input dataset name [Data set]. DataHub. https://doi.org/some-doi-number
 
 ### Output data
 
 Reference for each minted data source for your output data.  For example:
 
-Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+_Example_: Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/some-doi-number
 
 ## Dependencies
 
